@@ -1,2 +1,2 @@
 # rsschool-cv
-Arthur Kuznetsov CV
+[Arthur Kuznetsov CV](https://Invikto.github.io/rsschool-cv/cv)
